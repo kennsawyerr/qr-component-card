@@ -1,0 +1,46 @@
+body{
+    background-color: lightblue;
+}
+
+
+.qrimage{
+ width: 100%;
+ margin: auto;
+
+ border-radius: 10px;
+}
+
+.imagecontainer{
+    width: 17rem;
+    color: black;
+    width: 100%;
+ 
+}
+
+.textbox{
+    max-width: 18rem;
+  text-align: center;
+  padding-left: 8px ;
+  padding-right:8px ;
+  padding-top:10px ;
+  padding-bottom: 10px;
+  background-color: 
+  white;
+  border-radius: 10px;
+  display: grid;
+  place-items: center;
+
+  
+  margin: auto;
+}
+
+p{
+    color: grey;
+    word-spacing: 2px;
+    width: 240px;
+    margin: auto;
+    padding-bottom: 10px;
+}
+
+
+
