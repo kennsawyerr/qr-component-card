@@ -1,7 +1,12 @@
 body{
     background-color: lightblue;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
+/* https://github.com/kennsawyerr */
 
 .qrimage{
  width: 100%;
